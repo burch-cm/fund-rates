@@ -1,0 +1,4 @@
+Data Sources
+-----
+LIBOR: https://fred.stlouisfed.org/series/USDONTD156N
+Federal Funds Rate: https://fred.stlouisfed.org/series/EFFR
